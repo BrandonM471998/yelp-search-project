@@ -1,7 +1,7 @@
 # yelp-search-project
 
 # Introduction
-For this project, I was assigned with exploring Yelp reviews of businesses in Charlotte, NC and report any interesting findings. The primary way used to explore the data was through the use of Pivot Tables and PowerPivot. For this project I used Excel.
+I was assigned with exploring Yelp reviews of businesses in Charlotte, NC and report any interesting findings to my team. The primary way used to explore the data was through the use of Pivot Tables and PowerPivot. For this project I used Excel.
 
 Data sources: All data for this project was provided by NSS
 
